@@ -1,7 +1,17 @@
+# temp folder #
+######################
 target/
-bin/     
+bin/
+
+# eclipse generated files #
+######################
 .project
-.settings/
 .classpath
-.idea
+.settings/
+
+# Intellij project files #
+######################
 *.iml
+*.ipr
+*.iws
+.idea/
